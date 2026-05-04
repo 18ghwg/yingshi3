@@ -1,8 +1,7 @@
-# Workshop Duration Stats Build
+# Workshop Duration Stats Client
 
-Windows build artifacts for:
+Windows client build artifacts for the workshop duration statistics application.
 
-- `windows-client`: client application
-- `windows-license-admin`: license admin application
+- `windows-client`: packaged desktop client
 
 Built from local project on 2026-05-02.
